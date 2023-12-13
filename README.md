@@ -22,7 +22,7 @@ The key files in this project are:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/FormValidation.git
+   git clone https://github.com/DEADSERPENT/Form-Validation.git
    ```
 
 2. Open the `index.html` file in a web browser to interact with the form.
