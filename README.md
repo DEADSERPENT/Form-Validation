@@ -9,7 +9,7 @@ The key files in this project are:
 - **index.html**: The main HTML file that structures the form and its input fields.
 - **style.css**: The CSS file responsible for styling the form and enhancing the user interface.
 - **script.js**: The JavaScript file with the form validation logic to ensure valid user input.
-- **assets/**: This directory holds additional assets for the project. In this case, an image file (e.g., image.jpg) is included, which can be used within the form or for decorative purposes.
+- **assets/**: This directory holds additional assets for the project. In this case, an image file (e.g., image.webp) is included, which can be used within the form or for decorative purposes.
 
 ## Features
 
